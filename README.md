@@ -15,6 +15,11 @@ Build_MultiModel_ShareBackbone_mlp: Based on the MLP feature fusion scheme.
 
 Build_MultiModel_szzyy_pair_onlyimg_convnext: Based on the ConVNext approach.
 
+Based on retinal fundus images from both eyes, the best achievable metric for predicting ARWMC is F1: 0.811. 
+
+This demonstrates that retinal images, especially retinal vessels, can reflect the condition of patients' white matter. 
+
+However, to improve this result require more datasets and further experiments.
 
 Furthermore, we conducted a step-by-step masking experiment on retinal fundus images. The experimental results are as follows:
 
